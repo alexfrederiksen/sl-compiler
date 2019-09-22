@@ -1,0 +1,10 @@
+10 LET X = 1
+20 LET Y = 2
+21 LET C = 0
+30 PRINT X
+40 LET Z = X + Y
+50 LET X = Y
+60 LET Y = Z
+70 LET T = X / 1000
+80 IF T == C GOTO 30
+

@@ -1,0 +1,19 @@
+00 +1098 //                 READ 98
+01 +2097 //                 LOAD 97
+02 +3198 //                  SUB 98
+03 +4212 //          BRANCH_ZERO 12
+04 +2097 //                 LOAD 97
+05 +3096 //                  ADD 96
+06 +2197 //                STORE 97
+07 +1197 //                WRITE 97
+08 +2095 //                 LOAD 95
+09 +3097 //                  ADD 97
+10 +2195 //                STORE 95
+11 +4001 //               BRANCH 01
+12 +1195 //                WRITE 95
+13 +4300 //                 HALT 00
+95 +0000 //             VARIABLE t
+96 +0001 //             CONSTANT 1
+97 +0000 //             VARIABLE y
+98 +0000 //             VARIABLE x
+99 +0000
